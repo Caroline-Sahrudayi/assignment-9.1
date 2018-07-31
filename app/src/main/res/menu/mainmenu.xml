@@ -4,12 +4,12 @@
         android:id="@+id/color1"
         android:title="textcolor">
     <menu>
+        <item android:title="Red" android:id="@+id/red"/>
+        <item android:title="Yellow" android:id="@+id/yellow"/>
+        <item android:title="Blue" android:id="@+id/blue"/>
         <item
             android:id="@+id/black"
             android:title="Black" />
-        <item android:title="Blue" android:id="@+id/blue"/>
-        <item android:title="Yellow" android:id="@+id/yellow"/>
-        <item android:title="Red" android:id="@+id/red"/>
 
 
 
